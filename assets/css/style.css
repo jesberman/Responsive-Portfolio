@@ -1,0 +1,596 @@
+body {
+    background-image: url("back.png");
+    left: 50px;
+
+    width: 960px;
+    height: 700px;
+    position: relative;
+    border-bottom-color: rgb(221, 221, 221);
+    background-color: rgb(255, 255, 255);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: 5px;
+    border-top-style: 5px;
+    border-left-style: 5px;
+
+}
+
+
+#body-about {
+    background-image: url("back.png");
+    left: 50px;
+
+    width: 960px;
+    height: 800px;
+    position: relative;
+    border-bottom-color: rgb(221, 221, 221);
+    background-color: rgb(255, 255, 255);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: 5px;
+    border-top-style: 5px;
+    border-left-style: 5px;
+
+}
+
+
+#body-port {
+    background-image: url("back.png");
+    left: 50px;
+
+    width: 960px;
+    height: 1000px;
+    position: relative;
+    border-bottom-color: rgb(221, 221, 221);
+    background-color: rgb(255, 255, 255);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: 5px;
+    border-top-style: 5px;
+    border-left-style: 5px;
+
+}
+
+
+#body-contact {
+
+    background-image: url("back.png");
+    left: 50px;
+
+    width: 960px;
+    height: 700px;
+    position: relative;
+    border-bottom-color: rgb(221, 221, 221);
+    background-color: rgb(255, 255, 255);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: 5px;
+    border-top-style: 5px;
+    border-left-style: 5px;
+
+
+
+}
+
+
+
+
+p {
+    vertical-align: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    clear: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+#banner1 {
+
+    height: 100px;
+    width: 200px;
+    background-color: rgb(74, 170, 165);
+    text-align: center;
+    vertical-align: auto;
+    float: left;
+    border-bottom-color: rgb(204, 204, 204);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    border-left-style: hidden;
+
+    margin-bottom: -45px;
+}
+
+
+#banner2 {
+
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: auto;
+    float: left;
+    
+    border-bottom-color: rgb(204, 204, 204);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    border-left-style: hidden;
+
+    margin-bottom: -45px;
+
+}
+
+
+#banner3 {
+
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: auto;
+    float: left;
+    border-bottom-color: rgb(204, 204, 204);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    border-left-style: hidden;
+
+    margin-bottom: -45px;
+
+}
+
+
+#banner4 {
+
+    height: 100px;
+    width: 200px;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: auto;
+    float: left;
+    border-bottom-color: rgb(204, 204, 204);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    border-left-style: hidden;
+
+    margin-bottom: -45px;
+
+}
+
+
+#banner5 {
+
+    height: 100px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: auto;
+    float: left;
+    border-bottom-color: rgb(204, 204, 204);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    border-left-style: hidden;
+
+    margin-bottom: -45px;
+
+}
+
+#banner6 {
+
+    height: 100px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: auto;
+    float: left;
+    border-bottom-color: rgb(204, 204, 204);
+
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    border-left-style: hidden;
+
+    margin-bottom: -45px;
+
+}
+
+
+
+#Jesse_Berman {
+    line-height: 100px;
+    color: ghostwhite;
+
+}
+
+#About {
+    line-height: 100px;
+
+}
+
+#Portfolio {
+    line-height: 100px;
+
+}
+
+#Contact {
+    line-height: 100px;
+
+}
+
+
+#hangman {
+
+    height: 200px;
+    width: 300px;
+    float: left;
+
+}
+
+#rpg {
+
+    height: 200px;
+    width: 300px;
+    float: left;
+
+}
+
+.break1 {
+
+    height: 50px;
+    width: 50px;
+    clear: left;
+}
+
+#trivia {
+
+    height:200px;
+    width: 300px;
+    float: left;
+
+}
+
+
+#widget {
+
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+
+
+#rock {
+
+    height: 200px;
+    width: 300px;
+    float: left;
+
+}
+
+
+#break2 {
+
+    height: 50px;
+    width: 50px;
+    clear: left;
+
+}
+
+
+#blank {
+
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+
+
+p {
+    color: rgb(119, 119, 119);
+
+}
+
+#main {
+    height: 550px;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+
+
+
+
+}
+
+
+#main-about {
+    height: 750px;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+
+
+
+
+}
+
+#main-port {
+    height: 900px;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+
+}
+
+
+#main-contact {
+
+    height: 550px;
+    width: 950px;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+
+}
+
+
+
+
+.green_box {
+
+
+    background-color: rgb(53, 171, 165);
+    z-index: 4;
+    position: relative;
+
+    bottom: 50%;
+    height: 30%;
+    width: 89%;
+    color: white;
+    text-align: center;
+    padding-top: 7%;
+}
+
+
+
+.btn-primary {
+    color: white;
+    background-color: rgb(53, 171, 165);
+
+}
+
+
+footer {
+
+    display: block;
+    background-color: rgb(102, 102, 102);  
+    color: white;  
+    height: 20px;
+    width: 95%;
+    padding: 25px;
+    bottom: 0px;
+    position: fixed;
+}
+
+
+
+
+@media screen and (max-width:768px) and (min-width: 481px) {
+
+    #body-about {
+        width: 600px;
+        left: 0px;
+
+
+    }
+
+
+    #body-port {
+        width: 600px;
+
+    }
+
+
+
+    #banner1{
+        float: left;
+        width: 145px;
+
+    }
+
+    #banner2{
+        float: left;
+
+        width: 100px;
+
+    }
+
+    #banner3{
+        float: left;
+        width: 100px;
+
+
+    }
+
+    #banner4{
+        float: left;
+        width: 100px;
+
+    }
+
+    #banner5{
+        float: left;
+        width: 100px;
+
+    }
+
+
+    #banner6 {
+
+        width: 35px;
+    }
+    
+
+    
+    #main-about {
+
+        height: 700px;
+    }
+    
+
+    #main-port {
+
+        width: 600px;
+
+    }
+
+
+    #main-contact {
+
+        width: 600px;
+        height: ;
+
+    }
+
+
+    #body-contact {
+
+        width: 600px;
+        height: ;
+    }
+
+
+}
+
+@media screen and (max-width: 480px) {
+
+    #body-about {
+        width:290px;
+        left: 0px;
+    }
+
+
+    #body-port {
+        width:300px;
+        left: 0px;
+        
+    }
+
+    #body-contact {
+
+        width: 300px;
+        height: 200px;
+    }
+
+
+    #main-about {
+        height: 700px;
+        width: 275px;
+
+
+    }
+
+    #main-port {
+
+        height: 1400px;
+
+    }
+
+    #main-contact {
+
+        width: 300px;
+        height: 700px;
+
+    }
+
+
+
+    #rpg {
+        float: none;
+
+    }
+
+    #hangman {
+        float: none;
+        margin-top: 22%;
+    }
+
+    #trivia {
+        float: none;
+    }
+
+    #widget {
+        float: none;
+        margin-top: 22%;
+
+    }
+
+    #rock {
+        float: none;
+    }
+
+    #banner1{
+        float: none;
+        width: 275px;
+
+    }
+
+    #banner2{
+        float: none;
+        width: 275px;
+
+    }
+
+    #banner3{
+        float: none;
+        width: 275px;
+
+
+    }
+
+    #banner4{
+        float: none;
+        width: 275px;
+
+
+    }
+
+    #banner5{
+        float: none;
+        width: 275px;
+
+    }
+
+    #banner6{
+        display: none;
+    }
+}
+
